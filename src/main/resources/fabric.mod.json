@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "adventurecraft",
+  "version": "${version}",
+  "name": "Adventurecraft",
+  "description": "A simple overhaul to minecraft that gives a new spice on survival",
+  "authors": [
+    "Intrepid249"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/adventurecraft/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.github.trepicoder.adventurecraft.client.AdventurecraftClient"
+    ],
+    "main": [
+      "com.github.trepicoder.adventurecraft.Adventurecraft"
+    ]
+  },
+  "mixins": [
+    "Adventurecraft.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.9.1+build.205",
+    "fabric": "*",
+    "minecraft": "1.16.2"
+  }
+}

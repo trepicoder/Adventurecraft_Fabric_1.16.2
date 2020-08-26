@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "key": {
+    "x": {
+      "tag": "adventurecraft:sticks"
+    }
+  },
+  "result": {
+    "item": "adventurecraft:stickbundle"
+  }
+}

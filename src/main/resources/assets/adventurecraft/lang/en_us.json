@@ -1,0 +1,25 @@
+{
+  "item.adventurecraft.plantfibres": "Plantfibres",
+  "item.adventurecraft.twine": "Plant Twine",
+  "item.adventurecraft.stickbundle": "Stick Bundle",
+  "item.adventurecraft.treesap": "Tree Sap",
+
+
+  "item.adventurecraft.wooden_treetap": "Trazoo",
+
+
+  "block.adventurecraft.firewood_fresh": "Fresh Firewood",
+  "block.adventurecraft.firewood_seasoned": "Seasoned Firewood",
+  "block.adventurecraft.sugarmaple_log": "Sugarmaple Log",
+  "block.adventurecraft.sugarmaple_planks": "Sugarmaple Planks",
+  "block.adventurecraft.sugarmaple_leaves": "Sugarmaple Leaves",
+
+
+  "itemGroup.adventurecraft.miscitems": "Adventurecraft Miscellaneous",
+  "itemGroup.adventurecraft.toolitems": "Adventurecraft Tools",
+  "itemGroup.adventurecraft.buildingblocks": "Adventurecraft Building Blocks",
+
+
+  "advancements.adventurecraft.story.root.title": "Tree Puncher",
+  "advancements.adventurecraft.story.root.description": "*Slow Clap* What, did you think you \"Got wood\" or something?"
+}

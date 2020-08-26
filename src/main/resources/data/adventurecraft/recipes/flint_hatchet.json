@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "x#",
+    " p"
+  ],
+  "key": {
+    "p": {
+      "tag": "adventurecraft:sticks"
+    },
+    "#": {
+      "item": "adventurecraft:twine"
+    },
+    "x": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "adventurecraft:flint_hatchet"
+  }
+}
