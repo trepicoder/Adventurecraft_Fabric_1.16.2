@@ -23,5 +23,7 @@ public class ACItemRegistry {
         Registry.register(Registry.ITEM, new Identifier(Adventurecraft.modid, "sugarmaple_log"), ACItems.SUGARMAPLE_LOG);
         Registry.register(Registry.ITEM, new Identifier(Adventurecraft.modid, "sugarmaple_planks"), ACItems.SUGARMAPLE_PLANKS);
         Registry.register(Registry.ITEM, new Identifier(Adventurecraft.modid, "sugarmaple_leaves"), ACItems.SUGARMAPLE_LEAVES);
+
+        Registry.register(Registry.ITEM, new Identifier(Adventurecraft.modid, "campfire"), ACItems.CAMPFIRE);
     }
 }

@@ -5,7 +5,9 @@
   "item.adventurecraft.treesap": "Tree Sap",
 
 
+
   "item.adventurecraft.wooden_treetap": "Trazoo",
+
 
 
   "block.adventurecraft.firewood_fresh": "Fresh Firewood",
@@ -13,6 +15,9 @@
   "block.adventurecraft.sugarmaple_log": "Sugarmaple Log",
   "block.adventurecraft.sugarmaple_planks": "Sugarmaple Planks",
   "block.adventurecraft.sugarmaple_leaves": "Sugarmaple Leaves",
+
+  "block.adventurecraft.campfire": "Campfire",
+
 
 
   "itemGroup.adventurecraft.miscitems": "Adventurecraft Miscellaneous",

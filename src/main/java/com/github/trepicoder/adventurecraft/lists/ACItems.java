@@ -39,4 +39,7 @@ public class ACItems {
         .group(ACItemGroups.BUILDING_BLOCKS));
     public static final Item SUGARMAPLE_LEAVES = new BlockItem(ACBlocks.SUGARMAPLE_LEAVES, new Item.Settings()
         .group(ACItemGroups.BUILDING_BLOCKS));
+
+    public static final Item CAMPFIRE = new BlockItem(ACBlocks.CAMPFIRE, new Item.Settings()
+        .group(ACItemGroups.MISC_ITEMS));
 }

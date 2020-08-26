@@ -13,5 +13,7 @@ public class ACBlockRegistry {
         Registry.register(Registry.BLOCK, new Identifier(Adventurecraft.modid, "sugarmaple_log"), ACBlocks.SUGARMAPLE_LOG);
         Registry.register(Registry.BLOCK, new Identifier(Adventurecraft.modid, "sugarmaple_planks"), ACBlocks.SUGARMAPLE_PLANKS);
         Registry.register(Registry.BLOCK, new Identifier(Adventurecraft.modid, "sugarmaple_leaves"), ACBlocks.SUGARMAPLE_LEAVES);
+
+        Registry.register(Registry.BLOCK, new Identifier(Adventurecraft.modid, "campfire"), ACBlocks.CAMPFIRE);
     }
 }
